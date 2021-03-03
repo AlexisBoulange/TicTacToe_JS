@@ -1,0 +1,28 @@
+*{ box-sizing: border-box;
+}
+.p1, .p2{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+section div{
+    width: 100%;
+    border: 1px solid black;
+}
+table{
+    width: 300px;
+    height: 300px;
+    border-collapse: collapse;
+}
+td{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+}
+#winA, #winB{
+    font-size: 4em;
+}
